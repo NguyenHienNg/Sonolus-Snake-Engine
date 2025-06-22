@@ -2,15 +2,18 @@
     "version": 4,
     "title": {
         "en": "SNAKE"
+        "vi": "Gói skin rắn săn mồi"
     },
     "subtitle": {
         "en": "Everyone loves Snakes, right?"
+        "vi": "Mọi người đều thích rắn phải không?"
     },
     "author": {
         "en": "LBO44"
     },
     "description": {
     "en": "All those beautiful textures are drawn by me!\nAren't I the best artist ever (/s) ?"
+    "vi": "Tất cả những họa tiết tuyệt đẹp đó đều do tôi vẽ!\nTôi không phải là họa sĩ giỏi nhất sao (/s)?"
     },
     "tags":[]
 }
